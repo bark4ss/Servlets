@@ -1,0 +1,5 @@
+car = 10000
+bike = 1000
+apple = 5.2
+potato = 3.1
+orange = 4.2
